@@ -1,0 +1,55 @@
+
+.bg-fasa {
+    width: 124px; height: 24px;
+    background: url('../img/sprites.png') -1814px -830px;
+}
+
+.bg-flagDe {
+    width: 500px; height: 328px;
+    background: url('../img/sprites.png') -10px -1030px;
+}
+
+.bg-flagEn {
+    width: 34px; height: 18px;
+    background: url('../img/sprites.png') -2227px -830px;
+}
+
+.bg-flagIt {
+    width: 1500px; height: 1000px;
+    background: url('../img/sprites.png') -10px -10px;
+}
+
+.bg-flagUa {
+    width: 1200px; height: 800px;
+    background: url('../img/sprites.png') -1530px -10px;
+}
+
+.bg-Logo {
+    width: 67px; height: 28px;
+    background: url('../img/sprites.png') -1530px -887px;
+}
+
+.bg-neteller {
+    width: 123px; height: 22px;
+    background: url('../img/sprites.png') -1958px -830px;
+}
+
+.bg-PM {
+    width: 123px; height: 31px;
+    background: url('../img/sprites.png') -1671px -830px;
+}
+
+.bg-Rectangle {
+    width: 5px; height: 5px;
+    background: url('../img/sprites.png') -2281px -830px;
+}
+
+.bg-sticpay {
+    width: 106px; height: 21px;
+    background: url('../img/sprites.png') -2101px -830px;
+}
+
+.bg-Visa {
+    width: 121px; height: 37px;
+    background: url('../img/sprites.png') -1530px -830px;
+}

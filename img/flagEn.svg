@@ -1,0 +1,24 @@
+<svg id="flag" xmlns="http://www.w3.org/2000/svg" width="34" height="18" viewBox="0 0 34 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00247d;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #cf142b;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="34" height="17.938"/>
+  <path class="cls-2" d="M1808,57.935h-34v-2l7.56-3.995H1774V46h7.53L1774,42.035V40.005h33.33l0.67,0.013v2.005L1800.46,46H1808V51.94h-7.54l7.54,3.978v2.017Zm-19.82-17.93h-10.36l10.36,5.465V40.005Zm0,12.478-10.32,5.452h10.32V52.483Zm15.98-12.478h-10.34v5.463Zm-10.34,12.472v5.458h10.35Z" transform="translate(-1774 -40)"/>
+  <path class="cls-3" d="M1796.68,51.94h2.55l8.77,4.707v1.345Zm-3.98,6h-3.35V50.764H1774v-3.53h15.35V40.005h3.35v7.228H1808v3.53h-15.3v7.172ZM1794.13,46l11.32-6H1808l-11.32,6h-2.55ZM1774,41.35V40.005l11.32,5.94h-2.55Zm13.87,10.59-11.27,6h-2.55l11.32-6h2.5Z" transform="translate(-1774 -40)"/>
+</svg>
